@@ -7,10 +7,10 @@ AEGIS is an innovative IoT-based embedded system designed for intelligent electr
 Traditional electrical protection systems react only after faults occur. AEGIS aims to monitor electrical conditions intelligently and identify abnormal patterns for early fault awareness and preventive protection.
 
 ## Block Diagram
-(Will be uploaded)
+block 2026-05-26 at 1.19.03 PM.jpeg
 
 ## Working Flow
-(Will be uploaded)
+flowchart 2026-05-26 at 1.19.03 PM.jpeg
 
 ## Current Status
 Project idea finalized. Initial architecture, flow, and documentation are under development.
